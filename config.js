@@ -26,7 +26,7 @@ global.prefa = ['-']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = fs.readFileSync("./Assets/pic1.jpg")
+global.vidmenu = fs.readFileSync("./Assets/izumi-bot.mp4")
 global.websitex = "https://github.com/RushxAnu"
 global.lolhuman = "KaysaS"
 
