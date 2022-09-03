@@ -11,7 +11,7 @@ global.Owner = ['94773122185']
 global.OwnerNumber = ['94773122185']
 global.ownertag = ['94773122185']
 global.BotName = "Izumi"
-global.packname = "Izumi "
+global.packname = "Izumi ²⁰²²"
 global.author = "By: Thejawa"
 global.OwnerName = "Rush Official"
 global.BotSourceCode = "https://github.com/RushxAnu/Miku-MD"
@@ -26,7 +26,7 @@ global.prefa = ['-']
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
+global.vidmenu = fs.readFileSync("./Assets/pic1.jpg")
 global.websitex = "https://github.com/RushxAnu"
 global.lolhuman = "KaysaS"
 
